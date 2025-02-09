@@ -1,4 +1,4 @@
-# GL_NL_Sentiment-Analysis
+# GL_NLP_Sentiment-Analysis
 
 # Stock Sentiment Analysis
 
